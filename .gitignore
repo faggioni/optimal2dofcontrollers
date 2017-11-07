@@ -1,0 +1,8 @@
+#Distribution Folders
+/dist
+/optimal2dofcontrollers.egg-info
+#Testing Envs
+/envs
+
+#Compilation File
+*.pyc
