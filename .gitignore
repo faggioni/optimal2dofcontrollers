@@ -7,3 +7,6 @@
 
 #Compilation File
 *.pyc
+
+#Idle
+/.idea
