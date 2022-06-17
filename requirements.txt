@@ -1,2 +1,2 @@
 control == 0.7.0
-numpy == 1.10.0
+numpy == 1.21.0
